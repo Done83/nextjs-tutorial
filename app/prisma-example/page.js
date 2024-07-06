@@ -1,6 +1,8 @@
 const PrismaPage = () => {
   return (
-    <div>PrismaPage</div>
-  )
-}
-export default PrismaPage
+    <div>
+      <h1 className="text-7xl">PrismaPage</h1>
+    </div>
+  );
+};
+export default PrismaPage;
